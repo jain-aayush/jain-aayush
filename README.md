@@ -1,6 +1,6 @@
 ## Hi there, nice little hobbitses :ring:
 
-![Gollum](gollum.jpg)
+![Gollum](https://www.superherohype.com/assets/uploads/2020/01/Gollum-1280x720.jpg)
 
 # About
 ---

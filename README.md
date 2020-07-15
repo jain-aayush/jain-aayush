@@ -22,3 +22,6 @@ I am Fool of a Took and Aayush Jain is my name.I am a 3rd Year Undergraduate, pu
 # Contacts
 
 You can connect with me (and send memes) at:
+* [![Linkedin Badge](https://img.shields.io/badge/-Aayush_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-jain-91b34b166/)](https://www.linkedin.com/in/aayush-jain-91b34b166/)
+* [![Kaggle Badge](https://img.shields.io/badge/-Aayush_Jain-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/foolofatook)](https://www.kaggle.com/foolofatook)
+* [![Codechef Badge](https://img.shields.io/badge/-Aayush_Jain-brown?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/aayush_tisl)](https://www.codechef.com/users/aayush_tisl)
